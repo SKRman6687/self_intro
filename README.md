@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **No one cause I am orphan**
 
-- 🤝 I’m looking for help with **No one cause I am orphan**
-
 - 💬 Ask me about **Pls no cause I'm very noob : (**
 
 - 📫 How to reach me **pinray95@gmail.com**
@@ -19,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/chiusirbruh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiusirbruh" height="30" width="40" /></a>
 <a href="https://instagram.com/chiusirwasnttaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiusirwasnttaken" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sir2092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sir2092" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@sir2092/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sir2092/featured" height="30" width="40" /></a>
 <a href="https://discord.gg/邱sir#0273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="邱sir#0273" height="30" width="40" /></a>
 </p>
 
